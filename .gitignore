@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/.idea/
+/data/BSE_Sheep/
+/data/MVTec 3D-AD/*
+/data/BSE_Human/*
