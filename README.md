@@ -1,7 +1,7 @@
 # Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching
 ### Citation
 
-Our paper has been accepted at ICCVW 2023 and is available on [ArXiv](https://arxiv.org/abs/2310.05572). Please cite our work with
+Our paper has been accepted at CVPR 2024 and is available on [ArXiv](https://arxiv.org/abs/2402.17372). Please cite our work with
 ```sh
   
 @misc{bastico_coupled_2024,
